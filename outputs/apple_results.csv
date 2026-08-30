@@ -1,0 +1,7 @@
+Model,Random RMSE,Time RMSE,Walk Mean RMSE,Best RMSE,Walk Median RMSE,Walk Forward rmse Std,RMSE Increase (Walk − Random),Validation Inflation (%),Overestimation Ratio (Walk/Random)
+Linear Regression,4.45,7.33,18.03,4.45,7.84,19.47,13.58,305.1685393258427,4.05
+Decision Tree,3.38,35.86,23.67,3.38,20.55,15.14,20.29,600.2958579881658,7.0
+Random Forest,2.71,37.1,24.01,2.71,20.54,15.55,21.3,785.9778597785978,8.85
+XGBoost,2.92,40.55,26.21,2.92,21.6,16.38,23.29,797.6027397260274,8.98
+MLP,2.79,4.98,9.94,2.79,6.32,6.17,7.14,256.2724014336917,3.56
+Raw LSTM,,18.51,14.44,14.44,8.44,13.26,,,
